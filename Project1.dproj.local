@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/13 11:20:56.000.910,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/13 11:26:16.000.069,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/14 15:59:06.000.770,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/14 16:00:47.000.778,=C:\Albert Stuff\Attributes\Atributos.pas</Transaction>
+    <Transaction>2018/08/14 16:01:20.000.272,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Albert Stuff\Attributes\Unit1.dfm</Transaction>
+    <Transaction>2018/08/14 16:01:20.000.272,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Albert Stuff\Attributes\Unit1.pas</Transaction>
+    <Transaction>2018/08/14 16:01:21.000.793,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Albert Stuff\Attributes\Project1.dproj</Transaction>
+    <Transaction>2018/08/14 16:04:02.000.173,=C:\Albert Stuff\Attributes\BankDTO.pas</Transaction>
+    <Transaction>2018/08/14 16:12:25.000.809,=C:\Albert Stuff\Attributes\DTO.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Ppauldev iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
